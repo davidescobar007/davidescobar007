@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidescobar007, a Sr FrontEnd Engineer
-- 👀 I’m interested in advance FrontEnd concepts as well as Blockchain
+- 👀 I’m interested in advance FrontEnd concepts
 - 🌱 I’m currently learning "BlockChain" and keeping learning as much as posible in my field "FrontEnd"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/davidescobar007/
